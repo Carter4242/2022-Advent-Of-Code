@@ -29,5 +29,4 @@ class stacks():
             output += stack[-1]
         print(output)
             
-
     stacks()
