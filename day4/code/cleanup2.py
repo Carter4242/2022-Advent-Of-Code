@@ -18,7 +18,6 @@ class cleanup():
         print(total)
 
 
-            
 
         
     cleanup()
